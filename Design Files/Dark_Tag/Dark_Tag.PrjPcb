@@ -81,7 +81,7 @@ GenerateClassCluster=0
 DocumentUniqueId=MCLLPCBM
 
 [Document3]
-DocumentPath=Battary_Charging_Section.SchDoc
+DocumentPath=Battery_Charging_Section.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
