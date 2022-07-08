@@ -1,0 +1,17 @@
+Remove Pin=CF1-1 From Net=REGN_
+Remove Pin=CF2-1 From Net=AC1_
+Remove Pin=CF3-1 From Net=AC2_
+Remove Pin=CF3-2 From Net=AC1_
+Remove Pin=RF1-2 From Net=FOD_
+Change Component Footprint: Designator=J1 Old Footprint=U262-061N-4BVC11 New Footprint=2305018-2
+Change Component Comment: Designator=J1 Old Comment=U262-061N-4BVC11 New Comment=2305018-2
+Add Pin To Net: Pin=L1-2 Old Net=SW_ New Net=SW#
+Add Pin To Net: Pin=U1-5 Old Net=SW_ New Net=SW#
+Change Pin Designator/Name:  Old Designator=J1-A12 Old Name=GND New Designator =SHELL New Name=MH1
+Change Pin Designator/Name:  Old Designator=J1-B12 Old Name=GND New Designator =SHELL New Name=MH2
+Change Pin Designator/Name:  Old Designator=J1-MH1 Old Name=SHELL New Designator =GND New Name=A12
+Change Pin Designator/Name:  Old Designator=J1-MH2 Old Name=SHELL New Designator =GND New Name=B12
+Change Pin Designator/Name:  Old Designator=R17-1 Old Name= New Designator = New Name=2
+Change Pin Designator/Name:  Old Designator=R17-2 Old Name= New Designator = New Name=1
+Change Pin Designator/Name:  Old Designator=R19-1 Old Name= New Designator = New Name=2
+Change Pin Designator/Name:  Old Designator=R19-2 Old Name= New Designator = New Name=1
